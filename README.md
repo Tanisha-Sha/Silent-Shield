@@ -23,3 +23,23 @@ Silent Shield is a hidden emergency system disguised as a normal app (calculator
 - AI-based detection
 - Wearable integration
 - Police system integration
+
+  📱 UI Flow Prototype
+
+1. Hidden Calculator Interface
+![Calculator](calculator.png)
+
+2. Secret Code Trigger (1234 =)
+![Trigger](code.png)
+
+ 3. SOS Activated
+![SOS](alert.png)
+
+ 4. Emergency Contacts
+![Contacts](emergency.png)
+
+5. Live Tracking
+![Tracking](tracker.png)
+
+6. Gesture Detection
+![Gesture](gesture.png)
